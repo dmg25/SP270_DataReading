@@ -1,0 +1,80 @@
+D:\PROJECTS\HOANG LUU\ANDROID MODBUS\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\bin\Debug\FC04 READ INPUT REGISTERS.exe.config
+D:\PROJECTS\HOANG LUU\ANDROID MODBUS\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\bin\Debug\FC04 READ INPUT REGISTERS.exe
+D:\PROJECTS\HOANG LUU\ANDROID MODBUS\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\bin\Debug\FC04 READ INPUT REGISTERS.pdb
+D:\PROJECTS\HOANG LUU\ANDROID MODBUS\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\obj\Debug\FC04 READ INPUT REGISTERS.csprojResolveAssemblyReference.cache
+D:\PROJECTS\HOANG LUU\ANDROID MODBUS\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\obj\Debug\FC04_READ_INPUT_REGISTERS.FormMain.resources
+D:\PROJECTS\HOANG LUU\ANDROID MODBUS\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\obj\Debug\FC04_READ_INPUT_REGISTERS.Properties.Resources.resources
+D:\PROJECTS\HOANG LUU\ANDROID MODBUS\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\obj\Debug\FC04 READ INPUT REGISTERS.csproj.GenerateResource.Cache
+D:\PROJECTS\HOANG LUU\ANDROID MODBUS\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\obj\Debug\FC04 READ INPUT REGISTERS.exe
+D:\PROJECTS\HOANG LUU\ANDROID MODBUS\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\obj\Debug\FC04 READ INPUT REGISTERS.pdb
+C:\Users\HOANG LUU\Downloads\Modbus RTU Training C#\Modbus Example C#\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\bin\Debug\FC04 READ INPUT REGISTERS.exe.config
+C:\Users\HOANG LUU\Downloads\Modbus RTU Training C#\Modbus Example C#\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\obj\Debug\FC04 READ INPUT REGISTERS.exe
+C:\Users\HOANG LUU\Downloads\Modbus RTU Training C#\Modbus Example C#\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\obj\Debug\FC04 READ INPUT REGISTERS.pdb
+D:\PROJECTS\HOANG LUU\ANDROID MODBUS\Modbus RTU Training C#\Modbus Example C#\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\bin\Debug\FC04 READ INPUT REGISTERS.exe.config
+D:\PROJECTS\HOANG LUU\ANDROID MODBUS\Modbus RTU Training C#\Modbus Example C#\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\obj\Debug\FC04 READ INPUT REGISTERS.exe
+D:\PROJECTS\HOANG LUU\ANDROID MODBUS\Modbus RTU Training C#\Modbus Example C#\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\obj\Debug\FC04 READ INPUT REGISTERS.pdb
+D:\PROJECTS\HOANG LUU\ANDROID MODBUS\Modbus RTU Training C#\Modbus Example C#\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\bin\Debug\FC04 READ INPUT REGISTERS.exe
+D:\PROJECTS\HOANG LUU\ANDROID MODBUS\Modbus RTU Training C#\Modbus Example C#\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\bin\Debug\FC04 READ INPUT REGISTERS.pdb
+D:\PROJECTS\HOANG LUU\ANDROID MODBUS\Modbus RTU Training C#\Modbus Example C#\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\obj\Debug\FC04 READ INPUT REGISTERS.csprojResolveAssemblyReference.cache
+D:\PROJECTS\HOANG LUU\ANDROID MODBUS\Modbus RTU Training C#\Modbus Example C#\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\obj\Debug\FC04_READ_INPUT_REGISTERS.FormMain.resources
+D:\PROJECTS\HOANG LUU\ANDROID MODBUS\Modbus RTU Training C#\Modbus Example C#\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\obj\Debug\FC04_READ_INPUT_REGISTERS.Properties.Resources.resources
+D:\PROJECTS\HOANG LUU\ANDROID MODBUS\Modbus RTU Training C#\Modbus Example C#\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\obj\Debug\FC04 READ INPUT REGISTERS.csproj.GenerateResource.Cache
+D:\2. Trainning\1.19 Training Modbus Protocol\1.19.1.1 RTU\Modbus RTU Training C#\RTU MASTER C#\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\bin\Debug\FC04 READ INPUT REGISTERS.exe.config
+D:\2. Trainning\1.19 Training Modbus Protocol\1.19.1.1 RTU\Modbus RTU Training C#\RTU MASTER C#\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\obj\Debug\FC04 READ INPUT REGISTERS.exe
+D:\2. Trainning\1.19 Training Modbus Protocol\1.19.1.1 RTU\Modbus RTU Training C#\RTU MASTER C#\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\obj\Debug\FC04 READ INPUT REGISTERS.pdb
+D:\2. Trainning\1.19 Training Modbus Protocol\1.19.1.1 RTU\Modbus RTU Training C#\RTU MASTER C#\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\bin\Debug\FC04 READ INPUT REGISTERS.exe
+D:\2. Trainning\1.19 Training Modbus Protocol\1.19.1.1 RTU\Modbus RTU Training C#\RTU MASTER C#\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\bin\Debug\FC04 READ INPUT REGISTERS.pdb
+D:\2. Trainning\1.19 Training Modbus Protocol\1.19.1.1 RTU\Modbus RTU Training C#\RTU MASTER C#\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\obj\Debug\FC04 READ INPUT REGISTERS.csprojResolveAssemblyReference.cache
+D:\2. Trainning\1.19 Training Modbus Protocol\1.19.1.1 RTU\Modbus RTU Training C#\RTU MASTER C#\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\obj\Debug\FC04_READ_INPUT_REGISTERS.FormMain.resources
+D:\2. Trainning\1.19 Training Modbus Protocol\1.19.1.1 RTU\Modbus RTU Training C#\RTU MASTER C#\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\obj\Debug\FC04_READ_INPUT_REGISTERS.Properties.Resources.resources
+D:\2. Trainning\1.19 Training Modbus Protocol\1.19.1.1 RTU\Modbus RTU Training C#\RTU MASTER C#\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\obj\Debug\FC04 READ INPUT REGISTERS.csproj.GenerateResource.Cache
+D:\2. Trainning\1.19 Modbus Protocol\1.19.1.1 RTU\Modbus RTU Training C#\RTU MASTER C#\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\bin\Debug\FC04 READ INPUT REGISTERS.exe.config
+D:\2. Trainning\1.19 Modbus Protocol\1.19.1.1 RTU\Modbus RTU Training C#\RTU MASTER C#\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\obj\Debug\FC04 READ INPUT REGISTERS.exe
+D:\2. Trainning\1.19 Modbus Protocol\1.19.1.1 RTU\Modbus RTU Training C#\RTU MASTER C#\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\obj\Debug\FC04 READ INPUT REGISTERS.pdb
+D:\2. Trainning\1.19 Modbus Protocol\1.19.1.1 RTU\Modbus RTU Training C#\RTU MASTER C#\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\bin\Debug\FC04 READ INPUT REGISTERS.exe
+D:\2. Trainning\1.19 Modbus Protocol\1.19.1.1 RTU\Modbus RTU Training C#\RTU MASTER C#\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\bin\Debug\FC04 READ INPUT REGISTERS.pdb
+D:\2. Trainning\1.19 Modbus Protocol\1.19.1.1 RTU\Modbus RTU Training C#\RTU MASTER C#\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\obj\Debug\FC04 READ INPUT REGISTERS.csprojResolveAssemblyReference.cache
+D:\2. Trainning\1.19 Modbus Protocol\1.19.1.1 RTU\Modbus RTU Training C#\RTU MASTER C#\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\obj\Debug\FC04_READ_INPUT_REGISTERS.FormMain.resources
+D:\2. Trainning\1.19 Modbus Protocol\1.19.1.1 RTU\Modbus RTU Training C#\RTU MASTER C#\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\obj\Debug\FC04_READ_INPUT_REGISTERS.Properties.Resources.resources
+D:\2. Trainning\1.19 Modbus Protocol\1.19.1.1 RTU\Modbus RTU Training C#\RTU MASTER C#\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\obj\Debug\FC04 READ INPUT REGISTERS.csproj.GenerateResource.Cache
+C:\Users\ctai1\Downloads\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\bin\Debug\FC04 READ INPUT REGISTERS.exe.config
+C:\Users\ctai1\Downloads\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\obj\Debug\FC04 READ INPUT REGISTERS.exe
+C:\Users\ctai1\Downloads\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\obj\Debug\FC04 READ INPUT REGISTERS.pdb
+C:\Users\ctai1\Downloads\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\bin\Debug\FC04 READ INPUT REGISTERS.exe
+C:\Users\ctai1\Downloads\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\bin\Debug\FC04 READ INPUT REGISTERS.pdb
+C:\Users\ctai1\Downloads\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\obj\Debug\FC04 READ INPUT REGISTERS.csprojResolveAssemblyReference.cache
+C:\Users\ctai1\Downloads\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\obj\Debug\FC04_READ_INPUT_REGISTERS.FormMain.resources
+C:\Users\ctai1\Downloads\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\obj\Debug\FC04_READ_INPUT_REGISTERS.Properties.Resources.resources
+C:\Users\ctai1\Downloads\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\FC04 READ INPUT REGISTERS\obj\Debug\FC04 READ INPUT REGISTERS.csproj.GenerateResource.Cache
+C:\Users\ctai1\Desktop\работа с СП\ТРЕНДЫ\trends\trends\FC04 READ INPUT REGISTERS\obj\Debug\FC04_READ_INPUT_REGISTERS.FormMain.resources
+C:\Users\ctai1\Desktop\работа с СП\ТРЕНДЫ\trends\trends\FC04 READ INPUT REGISTERS\obj\Debug\FC04 READ INPUT REGISTERS.csproj.GenerateResource.Cache
+C:\Users\ctai1\Desktop\работа с СП\ТРЕНДЫ\trends\trends\FC04 READ INPUT REGISTERS\bin\Debug\Trends_for_SP270.exe.config
+C:\Users\ctai1\Desktop\работа с СП\ТРЕНДЫ\trends\trends\FC04 READ INPUT REGISTERS\bin\Debug\Trends_for_SP270.exe
+C:\Users\ctai1\Desktop\работа с СП\ТРЕНДЫ\trends\trends\FC04 READ INPUT REGISTERS\bin\Debug\Trends_for_SP270.pdb
+C:\Users\ctai1\Desktop\работа с СП\ТРЕНДЫ\trends\trends\FC04 READ INPUT REGISTERS\obj\Debug\Trends_for_SP270.Properties.Resources.resources
+C:\Users\ctai1\Desktop\работа с СП\ТРЕНДЫ\trends\trends\FC04 READ INPUT REGISTERS\obj\Debug\Trends_for_SP270.exe
+C:\Users\ctai1\Desktop\работа с СП\ТРЕНДЫ\trends\trends\FC04 READ INPUT REGISTERS\obj\Debug\Trends_for_SP270.pdb
+C:\Users\ctai1\Desktop\работа с СП\ТРЕНДЫ\trends\trends\FC04 READ INPUT REGISTERS\obj\Debug\FC04 READ INPUT REGISTERS.csprojResolveAssemblyReference.cache
+C:\Users\ctai1\Desktop\работа с СП\ТРЕНДЫ\trends\trends\FC04 READ INPUT REGISTERS\obj\Debug\Trends_for_SP270.AboutBox1.resources
+C:\Users\ctai1\Desktop\работа с СП\ТРЕНДЫ\trends\trends\FC04 READ INPUT REGISTERS\obj\Debug\FC04_READ_INPUT_REGISTERS.Support.resources
+C:\Users\ctai1\Desktop\работа с СП\ТРЕНДЫ\trends\trends\FC04 READ INPUT REGISTERS\obj\Debug\FC04_READ_INPUT_REGISTERS.Form1.resources
+C:\Users\ctai1\Desktop\работа с СП\ТРЕНДЫ\trends\trends\FC04 READ INPUT REGISTERS\bin\Debug\Trends_for_SP270.exe.manifest
+C:\Users\ctai1\Desktop\работа с СП\ТРЕНДЫ\trends\trends\FC04 READ INPUT REGISTERS\bin\Debug\Trends_for_SP270.application
+C:\Users\ctai1\Desktop\работа с СП\ТРЕНДЫ\trends\trends\FC04 READ INPUT REGISTERS\obj\Debug\Trends_for_SP270.exe.manifest
+C:\Users\ctai1\Desktop\работа с СП\ТРЕНДЫ\trends\trends\FC04 READ INPUT REGISTERS\obj\Debug\Trends_for_SP270.application
+G:\docs wrk\прога для СП\работа с СП\ТРЕНДЫ\trends\trends\FC04 READ INPUT REGISTERS\bin\Debug\Trends_for_SP270.exe.config
+G:\docs wrk\прога для СП\работа с СП\ТРЕНДЫ\trends\trends\FC04 READ INPUT REGISTERS\obj\Debug\Trends_for_SP270.exe
+G:\docs wrk\прога для СП\работа с СП\ТРЕНДЫ\trends\trends\FC04 READ INPUT REGISTERS\obj\Debug\Trends_for_SP270.pdb
+G:\docs wrk\прога для СП\работа с СП\ТРЕНДЫ\trends\trends\FC04 READ INPUT REGISTERS\bin\Debug\Trends_for_SP270.exe.manifest
+G:\docs wrk\прога для СП\работа с СП\ТРЕНДЫ\trends\trends\FC04 READ INPUT REGISTERS\bin\Debug\Trends_for_SP270.application
+G:\docs wrk\прога для СП\работа с СП\ТРЕНДЫ\trends\trends\FC04 READ INPUT REGISTERS\bin\Debug\Trends_for_SP270.exe
+G:\docs wrk\прога для СП\работа с СП\ТРЕНДЫ\trends\trends\FC04 READ INPUT REGISTERS\bin\Debug\Trends_for_SP270.pdb
+G:\docs wrk\прога для СП\работа с СП\ТРЕНДЫ\trends\trends\FC04 READ INPUT REGISTERS\obj\Debug\FC04 READ INPUT REGISTERS.csprojResolveAssemblyReference.cache
+G:\docs wrk\прога для СП\работа с СП\ТРЕНДЫ\trends\trends\FC04 READ INPUT REGISTERS\obj\Debug\Trends_for_SP270.AboutBox1.resources
+G:\docs wrk\прога для СП\работа с СП\ТРЕНДЫ\trends\trends\FC04 READ INPUT REGISTERS\obj\Debug\FC04_READ_INPUT_REGISTERS.Form1.resources
+G:\docs wrk\прога для СП\работа с СП\ТРЕНДЫ\trends\trends\FC04 READ INPUT REGISTERS\obj\Debug\FC04_READ_INPUT_REGISTERS.FormMain.resources
+G:\docs wrk\прога для СП\работа с СП\ТРЕНДЫ\trends\trends\FC04 READ INPUT REGISTERS\obj\Debug\Trends_for_SP270.Properties.Resources.resources
+G:\docs wrk\прога для СП\работа с СП\ТРЕНДЫ\trends\trends\FC04 READ INPUT REGISTERS\obj\Debug\FC04_READ_INPUT_REGISTERS.Support.resources
+G:\docs wrk\прога для СП\работа с СП\ТРЕНДЫ\trends\trends\FC04 READ INPUT REGISTERS\obj\Debug\FC04 READ INPUT REGISTERS.csproj.GenerateResource.Cache
+G:\docs wrk\прога для СП\работа с СП\ТРЕНДЫ\trends\trends\FC04 READ INPUT REGISTERS\obj\Debug\Trends_for_SP270.exe.manifest
+G:\docs wrk\прога для СП\работа с СП\ТРЕНДЫ\trends\trends\FC04 READ INPUT REGISTERS\obj\Debug\Trends_for_SP270.application
